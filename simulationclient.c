@@ -6,7 +6,7 @@
 #include "pbc/pbc.h"
 #include "pbc/pbc_test.h"
 
-#define SERVER_IP "127.0.0.1"  // 服务器地址
+#define SERVER_IP "192.168.137.1"  // 服务器地址
 #define PORT 12345
 #define BUFFER_SIZE 1024
 #define VECTOR_SIZE 10  // 向量的大小
